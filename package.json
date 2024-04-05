@@ -1,0 +1,31 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Repositório de um curso de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIN4123/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Elen Vitória",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NIN4123/cursonode/issues"
+  },
+  "homepage": "https://github.com/NIN4123/cursonode#readme"
+}
